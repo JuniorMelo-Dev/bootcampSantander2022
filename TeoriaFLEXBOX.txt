@@ -67,3 +67,6 @@ Valores possíveis
 auto = caso o item não tenha tamanho, este será proporcional ao conteúdodo item.
 px, %, em, ... = são valores exatos previamente definidos
 0 (zero) = terá relação com a definição do flex-grow.
+
+FLEX SHRINK
+É  propriedade que estabelece a capacidade de redução ou compressão do tamanho de um item.
