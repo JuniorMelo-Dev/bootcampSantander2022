@@ -59,3 +59,11 @@ space-around = os espaçamentos do meio são duas vezes maiores que o inicial e 
 FLEX GROW
 Define a proporcionalidade de crescimento dos itens, respeitando o tamanho de seus conteúdos internos.
 OBS: não irá funcionar caso tenhamos adicionado justify-content ao nosso flex container.
+
+FLEX BASIS
+É a propriedade que estabelece o tamanho inicia do item antes da distribuição de espaço restante dentro dele, usando como base o conteúdo interno disposto.
+
+Valores possíveis
+auto = caso o item não tenha tamanho, este será proporcional ao conteúdodo item.
+px, %, em, ... = são valores exatos previamente definidos
+0 (zero) = terá relação com a definição do flex-grow.
