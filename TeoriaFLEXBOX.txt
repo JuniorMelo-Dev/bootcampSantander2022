@@ -55,3 +55,7 @@ flex-start = alinhamento dos itens ao inicio
 flex-end = alinhamento ds itens ao final
 space-between = cria um espaçamento igual entre os elementos
 space-around = os espaçamentos do meio são duas vezes maiores que o inicial e final
+
+FLEX GROW
+Define a proporcionalidade de crescimento dos itens, respeitando o tamanho de seus conteúdos internos.
+OBS: não irá funcionar caso tenhamos adicionado justify-content ao nosso flex container.
