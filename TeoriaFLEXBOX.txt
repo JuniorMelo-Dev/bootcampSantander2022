@@ -73,3 +73,6 @@ FLEX SHRINK
 
 FLEX
 Esta propriedade é um atalho ou abreviação de escrita para as propriedades: grow, shrink e basis.
+
+ORDER
+É  propriedade que lida diretamente com a ordenação dos itens, relacionada com o flex-items
