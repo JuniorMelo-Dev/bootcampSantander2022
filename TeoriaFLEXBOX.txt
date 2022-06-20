@@ -70,3 +70,6 @@ px, %, em, ... = são valores exatos previamente definidos
 
 FLEX SHRINK
 É  propriedade que estabelece a capacidade de redução ou compressão do tamanho de um item.
+
+FLEX
+Esta propriedade é um atalho ou abreviação de escrita para as propriedades: grow, shrink e basis.
