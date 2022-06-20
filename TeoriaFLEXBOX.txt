@@ -76,3 +76,14 @@ Esta propriedade é um atalho ou abreviação de escrita para as propriedades: g
 
 ORDER
 É  propriedade que lida diretamente com a ordenação dos itens, relacionada com o flex-items
+
+ALIGN SELF
+É  a propriedade que estabelece o alinhamentos do modo individual sobre um determinado item.
+
+Valores possíveis
+auto: valor padrão, irá respeitar adefinição de align-items do container.
+flex-start: ao início do container.
+flex-end: ao final do container.
+center: relativo ao centro de acordo com o eixo.
+strech: ocupa todo espaço relativo.
+baseline: utiliza a linha base da tipografia.
